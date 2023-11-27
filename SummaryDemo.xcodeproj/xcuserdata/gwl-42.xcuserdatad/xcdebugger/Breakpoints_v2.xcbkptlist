@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD9665BF-369B-4491-A2A6-0DD94E01A1FA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62431B4E-C25D-4A6E-B3F6-EE63C8D554AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/Login/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07678A89-F0BC-4439-8859-83E8C46D966F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/Picker/DocumentPicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "documentPicker(_:didPickDocumentsAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1124AF4E-7628-4E08-89BC-5620F70B18CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/Session/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A99B65AB-FEAC-43B0-A431-A65F54175ACD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/Session/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/Session/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SessionManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - 17075416488b5d89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of SummaryDemo.SessionManager.isLoggedIn : Swift.Bool"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - 3b7bcd1dc175cb53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.isLoggedIn.getter : Swift.Bool"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - 57b9b407202a9347"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.isLoggedIn.setter : Swift.Bool"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - f97394711b159156"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.isLoggedIn.modify : Swift.Bool"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - f12ec7c66bc7a547"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.isLoggedIn.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - 1c091bc92df8727c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.$isLoggedIn.getter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - 473c5c5f7a2fbe60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.$isLoggedIn.setter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - 4f587d56c19e3fb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.$isLoggedIn.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - 3cde0a932580eeac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.$isLoggedIn.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E4E0EC62-1322-494D-A66E-E363732A7DFB - 11d5c2a3b9ee3b48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.SessionManager.init() -&gt; SummaryDemo.SessionManager"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Session/SessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "75">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F63197D-CC11-4C3D-BE8F-6BA2F522EB71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/History/HistoryView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8F63197D-CC11-4C3D-BE8F-6BA2F522EB71 - 56c073041179496f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in SummaryDemo.HistoryView.body.getter : some"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/History/HistoryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "381">
+               </Location>
+               <Location
+                  uuid = "8F63197D-CC11-4C3D-BE8F-6BA2F522EB71 - fc070d9913de435"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SummaryDemo.Item) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in SummaryDemo.HistoryView.body.getter : some"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/History/HistoryView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "129">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "012AD178-27E8-48F4-B4FC-A331A7559363"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/Persistence.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "PersistenceController"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8263C46-7D81-4820-BE89-784784F02CBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/Persistence.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "PersistenceController"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0AE3A22-90DB-4467-B628-20463C4B4F37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/Home/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E0AE3A22-90DB-4467-B628-20463C4B4F37 - c65d77074b44d102"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SummaryDemo.HomeView.body.getter : some"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1960">
+               </Location>
+               <Location
+                  uuid = "E0AE3A22-90DB-4467-B628-20463C4B4F37 - 51f73257be2e50f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; SwiftUI.EmptyView in SummaryDemo.HomeView.body.getter : some"
+                  moduleName = "SummaryDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gwl-42/Desktop/SummaryDemo/SummaryDemo/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E5E111E-E000-41F7-8848-614797ED5DB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SummaryDemo/History/HistoryView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
